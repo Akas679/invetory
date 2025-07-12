@@ -1,0 +1,25 @@
+{
+  "name": "Sudhamrit Inventory Management",
+  "short_name": "Sudhamrit",
+  "description": "Sudhamrit - Professional inventory management with stock tracking",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E53E3E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/111_1750417572953.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/111_1750417572953.png", 
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"]
+}
