@@ -3,7 +3,8 @@ import { useLocation } from "wouter";
 import { queryClient } from "./lib/queryClient";
 import { QueryClientProvider } from "@tanstack/react-query";
 import { Toaster } from "sonner";
-import Login from "@/pages/Login";
+import Login from "@/pages/Login"; // ✅ Correct
+
 import HomeNew from "@/pages/Home-new";
 import Inventory from "@/pages/Inventory";
 import MasterInventory from "@/pages/MasterInventory";
